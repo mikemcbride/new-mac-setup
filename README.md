@@ -6,6 +6,7 @@ My checklist for setting up a new Mac.
 1. Install [Node](https://nodejs.org/en/download)
 1. Set up [dotfiles](https://github.com/mmcbride1007/dotfiles)
 1. Install custom fonts (stored in iCloud Drive `fonts` folder)
+1. Run macOS preferences/setup script
 
 Here are some helpful scripts to run in order:
 
@@ -14,4 +15,7 @@ Here are some helpful scripts to run in order:
 
 # massive dotfiles setup script
 curl -L https://raw.githubusercontent.com/mmcbride1007/dotfiles/master/setup.sh | sh
+
+# run .macos setup script
+sh ~/dotfiles/.macos
 ```
