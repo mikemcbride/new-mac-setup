@@ -2,10 +2,10 @@
 
 My checklist for setting up a new Mac.
 
-1. Sign in to Apple services/iCloud (could do this after installing LastPass so you can get your password)
+1. Sign in to Apple services/iCloud (could do this after installing LastPass so you can get your password, or use LastPass web app)
+1. Install [Node](https://nodejs.org/en/download)
 1. Install [Homebrew](https://brew.sh)
 1. Install git via homebrew
-1. Install [Node](https://nodejs.org/en/download)
 1. Set up [dotfiles](https://github.com/mmcbride1007/dotfiles)
 1. Install custom fonts (stored in iCloud Drive `fonts` folder)
 
@@ -24,4 +24,3 @@ brew install vim
 # massive dotfiles setup script
 curl -L https://raw.githubusercontent.com/mmcbride1007/dotfiles/master/setup.sh | sh
 ```
-
