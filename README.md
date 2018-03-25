@@ -7,6 +7,7 @@ My checklist for setting up a new Mac.
 1. Set up [dotfiles](https://github.com/mmcbride1007/dotfiles)
 1. Install custom fonts (stored in iCloud Drive `fonts` folder)
 1. Run macOS preferences/setup script
+1. Set DNS to use [Google Public DNS](https://developers.google.com/speed/public-dns/docs/using)
 
 Here are some helpful scripts to run in order:
 
